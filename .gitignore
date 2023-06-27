@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build directories
+dist/
+build/
+out/
+tmp/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Testing files
+coverage/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.cache
+*.csv
+
+# Yarn
+yarn-error.log
+
+# NPM
+npm-debug.log*
