@@ -2,13 +2,16 @@
 
 This is a Gene Database Application built with Node.js and MongoDB. It allows users to upload a file containing gene data, parse the data, and store it in a MongoDB database. Users can then view the gene information in a tabular format.
 
-##Screenshots
+## Screenshots
 
 ![Screenshot](./Screenshots/sc.png)
+
 Description: The home page of the Gene Database Application where users can upload a file containing gene data.
-![Screenshot](./Screenshots/sc1.png)
+ ![Screenshot](./Screenshots/sc1.png)
+
 Description: The table view of the gene information after uploading a file. The genes are displayed in a tabular format with details such as sequence information, size, percentage, protein sequence, and remark.
 ![Screenshot](./Screenshots/sc2.png)
+
 Description: Example of a gene entry with its corresponding details in the table view.
 
 ## Features
